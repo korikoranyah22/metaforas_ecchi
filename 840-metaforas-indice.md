@@ -1,0 +1,44 @@
+# 840 Metáforas — Índice de Cajas
+
+- Caja 01 | Semilla: El deseo inocente de disfrazar lo erótico en metáforas sensoriales. Jugar con lo prohibido sin … | Keywords: fruta
+- Caja 02 | Semilla: La necesidad de subir el calor con texturas nuevas: blandito, duro, mojado, eléctrico. | Keywords: calor, espejo
+- Caja 03 | Semilla: Cuando lo sugerente se vuelve casi insoportable, pero aún se guarda el secreto. | Keywords: calor
+- Caja 04 | Semilla: El cuerpo como feria de sensaciones, cada objeto del mundo se vuelve cómplice de lo prohibido. | Keywords: cocina, juego
+- Caja 05 | Semilla: Cuando lo cotidiano se convierte en travesura: objetos inocentes que esconden una picardía secr… | Keywords: cocina, juego, oficina
+- Caja 06 | Semilla: El mundo entero como escenario de travesuras: todo lo que parece normal se transforma en un gui… | Keywords: calor, juego, oficina
+- Caja 07 | Semilla: El mundo urbano y nocturno se transforma en un escenario ardiente: luces, calles, bares, transp… | Keywords: sensorial, doble sentido
+- Caja 08 | Semilla: La naturaleza se vuelve cómplice: cada elemento del bosque, del mar o del cielo respira con nos… | Keywords: sensorial, doble sentido
+- Caja 09 | Semilla: La orden vino directa: acelerar el pulso de quien lee, con imágenes que tiran del hilo de la im… | Keywords: juego, espejo
+- Caja 10 | Semilla: El juego sube un nivel: lo cotidiano se tuerce en travesura. Objetos inocentes —juguetes, dulce… | Keywords: juego
+- Caja 11 | Semilla: El deseo disfrazado de inocencia: lo que parece tierno o cotidiano, se retuerce hasta sonar ind… | Keywords: sensorial, doble sentido
+- Caja 12 | Semilla: La sensualidad como juego de contrastes: cosas densas y cosas etéreas, frío y calor, duras y bl… | Keywords: calor, cocina, fruta, juego
+- Caja 13 | Semilla: Lo doméstico se transforma en travesura: la casa entera conspira con sus sonidos, olores y rinc… | Keywords: calor, sonido, cocina
+- Caja 14 | Semilla: La intimidad vista como fiesta de sensaciones: objetos cotidianos se transforman en instrumento… | Keywords: sonido, noche
+- Caja 15 | Semilla: Juegos de tacto y sonido: objetos cotidianos que susurran y vibran en el cuerpo como si tuviera… | Keywords: tacto, sonido, juego, lluvia
+- Caja 16 | Semilla: Objetos que brillan, resbalan o crujen: imágenes que invitan a imaginar el roce inmediato, como… | Keywords: calor, luz, lluvia
+- Caja 17 | Semilla: Ritmos, pulsos y repeticiones: metáforas que evocan movimiento constante, como si el cuerpo mis… | Keywords: ritmo
+- Caja 18 | Semilla: Sabores intensos, líquidos tibios, aromas que se quedan en la piel. Lo comestible y lo bebible … | Keywords: cocina, noche
+- Caja 19 | Semilla: Contrastes de textura: terciopelo y piedra, seda y cuerda, pluma y lija. Todo lo que hace a la … | Keywords: sensorial, doble sentido
+- Caja 20 | Semilla: Naturaleza viva: flores, frutos, lluvia y minerales que al rozarse con la piel se vuelven mensa… | Keywords: lluvia
+- Caja 21 | Semilla: Objetos urbanos y cotidianos —puertas, luces, mecanismos— que se vuelven cómplices de un roce i… | Keywords: luz
+- Caja 22 | Semilla: Juegos suaves: plumas, burbujas, seda, cosas pequeñas que rozan y despiertan sin quemar. | Keywords: juego
+- Caja 23 | Semilla: Ritmos escondidos: latidos, goteos, chasquidos, ruidos que marcan compases íntimos. | Keywords: agua, sonido, ritmo
+- Caja 24 | Semilla: Sombras y reflejos: cómo la luz, los espejos y las siluetas duplican lo que sentimos. | Keywords: agua, sombra, luz, juego
+- Caja 25 | Semilla: Objetos que se derraman, se quiebran o se deslizan: fragilidad aparente que esconde una tensión… | Keywords: sensorial, doble sentido
+- Caja 26 | Semilla: Ritmo del roce: cada movimiento es un vaivén de objetos cotidianos que parecen suspirar y tensa… | Keywords: ritmo
+- Caja 27 | Semilla: — | Keywords: sensorial, doble sentido
+- Caja 28 | Semilla: Luces y sombras como piel adicional: cada destello o penumbra acaricia, oculta, revela. | Keywords: sombra, luz
+- Caja 29 | Semilla: Sabores y bocados: lo gustativo como metáfora del deseo, lengua y paladar como territorios de j… | Keywords: fruta, juego
+- Caja 30 | Semilla: El cuerpo como partitura: cada roce es nota, cada jadeo un acorde, cada movimiento un compás qu… | Keywords: sensorial, doble sentido
+- Caja 31 | Semilla: La penumbra como cómplice: no todo se revela, lo invisible enciende tanto como lo que se deja v… | Keywords: sombra, noche
+- Caja 32 | Semilla: Frutas, líquidos y texturas blandas o firmes que se transforman en provocaciones sensoriales. | Keywords: aire, tacto, fruta
+- Caja 33 | Semilla: Ruidos y vibraciones de objetos cotidianos que se vuelven gemidos disfrazados. | Keywords: sensorial, doble sentido
+- Caja 34 | Semilla: Luces y sombras como manos invisibles: el cuerpo se vuelve silueta, reflejo, proyección. | Keywords: sombra, luz
+- Caja 35 | Semilla: El cuerpo huele, invita y delata: sudor, perfumes, humo, ropa, piel recién tocada. | Keywords: sudor
+- Caja 36 | Semilla: El deseo también tiene sabor: sal, dulzura, amargor, metálico, especias que la boca atrapa y tr… | Keywords: sensorial, doble sentido
+- Caja 37 | Semilla: Cuando el cuerpo se convierte en banquete, cada roce es una degustación secreta. | Keywords: sensorial, doble sentido
+- Caja 38 | Semilla: El cuerpo como laboratorio secreto: líquidos imposibles, minerales suaves, fuegos que saben. | Keywords: aire
+- Caja 39 | Semilla: Gravedad suave y presión medida: apretar–soltar–suspender como idioma secreto. | Keywords: luz, espejo
+- Caja 40 | Semilla: Juego íntimo de superficies y fronteras: metáforas visuales y táctiles que insinúan contacto, t… | Keywords: tacto, luz, juego
+- Caja 41 | Semilla: Los objetos que brillan o destellan un instante —cristales, espejos, fuegos artificiales— como … | Keywords: luz, espejo, noche
+- Caja 42 | Semilla: Respirar se vuelve apenas un lujo; lo esencial es el roce, la fricción que sustituye al aire co… | Keywords: aire, sábana
