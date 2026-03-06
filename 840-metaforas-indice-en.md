@@ -1,44 +1,44 @@
 # 840 Metaphors — Box Index
 
-- Box 01 | Seed: The innocent urge to dress erotic energy in sensory metaphor—playing with the forbidden without naming it. | Keywords: fruit
-- Box 02 | Seed: The need to raise the heat with fresh textures: soft, hard, wet, electric. | Keywords: heat, mirror
-- Box 03 | Seed: Suggestion turns almost unbearable, yet the secret is still kept. | Keywords: heat
-- Box 04 | Seed: The body as a carnival of sensations, where every object becomes an accomplice to mischief. | Keywords: kitchen, play
-- Box 05 | Seed: Daily life becomes playful trouble: innocent objects hiding private mischief. | Keywords: kitchen, play, office
-- Box 06 | Seed: The whole world becomes a stage for playful tension; normal turns into a wink. | Keywords: heat, play, office
-- Box 07 | Seed: City nights become a burning set: lights, streets, bars, transit, coded glances. | Keywords: sensory, double meaning
-- Box 08 | Seed: Nature joins in: forest, sea, and sky breathing along with desire. | Keywords: sensory, double meaning
-- Box 09 | Seed: A direct order—speed up the reader’s pulse with images that pull imagination tight. | Keywords: play, mirror
-- Box 10 | Seed: The game levels up: ordinary life bends into flirtatious trouble. | Keywords: play
-- Box 11 | Seed: Desire disguised as innocence: sweet or mundane details twisted into innuendo. | Keywords: sensory, double meaning
-- Box 12 | Seed: Sensuality through contrast: dense and airy, cold and heat, firm and soft. | Keywords: heat, kitchen, fruit, play
-- Box 13 | Seed: Domestic space turns mischievous; the whole home conspires through sound and scent. | Keywords: heat, sound, kitchen
-- Box 14 | Seed: Intimacy as a festival of sensations; everyday objects become instruments. | Keywords: sound, night
-- Box 15 | Seed: Touch-and-sound games: everyday objects whisper and vibrate through the body. | Keywords: touch, sound, play, rain
-- Box 16 | Seed: Things that shine, slip, or creak invite immediate imagined friction. | Keywords: heat, light, rain
-- Box 17 | Seed: Rhythm, pulse, repetition: metaphors of continuous movement. | Keywords: rhythm
-- Box 18 | Seed: Intense flavors, warm liquids, scents that stay on skin—edible desire. | Keywords: kitchen, night
-- Box 19 | Seed: Texture contrasts: velvet and stone, silk and rope, feather and grit. | Keywords: sensory, double meaning
-- Box 20 | Seed: Living nature: flowers, fruit, rain, minerals turning into messages on skin. | Keywords: rain
-- Box 21 | Seed: Urban everyday objects—doors, lights, mechanisms—become accomplices to close contact. | Keywords: light
-- Box 22 | Seed: Soft play: feathers, bubbles, silk, small touches that wake without burning. | Keywords: play
-- Box 23 | Seed: Hidden rhythms: heartbeats, drips, clicks, noises that score intimacy. | Keywords: water, sound, rhythm
-- Box 24 | Seed: Shadows and reflections: light, mirrors, and silhouettes doubling sensation. | Keywords: water, shadow, light, play
-- Box 25 | Seed: Objects that spill, crack, or slide: fragile surfaces hiding tension. | Keywords: sensory, double meaning
-- Box 26 | Seed: The rhythm of brushing contact: each movement swings and tightens. | Keywords: rhythm
+- Box 01 | Seed: The innocent urge to dress erotic energy in sensory metaphor, playing with the forbidden without naming it. | Keywords: fruit
+- Box 02 | Seed: The need to raise the heat with fresh textures: soft, firm, wet, electric. | Keywords: heat, mirror
+- Box 03 | Seed: Suggestion turns almost unbearable, yet the secret remains protected. | Keywords: heat
+- Box 04 | Seed: The body as a fair of sensations, where every object becomes an accomplice. | Keywords: kitchen, play
+- Box 05 | Seed: Daily life turns mischievous: innocent objects hiding private cheekiness. | Keywords: kitchen, play, office
+- Box 06 | Seed: The whole world becomes a stage for playful tension. | Keywords: heat, play, office
+- Box 07 | Seed: Urban night becomes a heated scene of lights, streets, bars, and transit. | Keywords: sensory, double meaning
+- Box 08 | Seed: Nature joins in: forest, sea, and sky breathe with desire. | Keywords: sensory, double meaning
+- Box 09 | Seed: A direct mandate: accelerate the reader’s pulse with high-friction imagery. | Keywords: play, mirror
+- Box 10 | Seed: The game levels up: everyday life bends into flirtatious trouble. | Keywords: play
+- Box 11 | Seed: Desire disguised as innocence: the tender and ordinary twist into innuendo. | Keywords: sensory, double meaning
+- Box 12 | Seed: Sensuality through contrast: dense and airy, cold and hot, firm and soft. | Keywords: heat, kitchen, fruit, play
+- Box 13 | Seed: Domestic space becomes mischief: the entire home conspires through sound and scent. | Keywords: heat, sound, kitchen
+- Box 14 | Seed: Intimacy as a festival of sensation: everyday objects become instruments. | Keywords: sound, night
+- Box 15 | Seed: Games of touch and sound: ordinary objects whisper and vibrate through the body. | Keywords: touch, sound, play, rain
+- Box 16 | Seed: Objects that shine, slip, or creak invite immediate imagined friction. | Keywords: heat, light, rain
+- Box 17 | Seed: Rhythm, pulse, and repetition: metaphors of steady movement. | Keywords: rhythm
+- Box 18 | Seed: Intense flavor, warm liquids, and aromas that remain on skin. | Keywords: kitchen, night
+- Box 19 | Seed: Texture contrast: velvet and stone, silk and rope, feather and grit. | Keywords: sensory, double meaning
+- Box 20 | Seed: Living nature: flowers, fruit, rain, and minerals become messages on skin. | Keywords: rain
+- Box 21 | Seed: Urban objects—doors, lights, mechanisms—become accomplices of close contact. | Keywords: light
+- Box 22 | Seed: Soft games: feathers, bubbles, silk, and tiny touches that awaken without burning. | Keywords: play
+- Box 23 | Seed: Hidden rhythms: heartbeats, drips, snaps, and sounds that mark intimate tempo. | Keywords: water, sound, rhythm
+- Box 24 | Seed: Shadows and reflections: light, mirrors, and silhouettes duplicate sensation. | Keywords: water, shadow, light, play
+- Box 25 | Seed: Things that spill, crack, or slide: apparent fragility hiding tension. | Keywords: sensory, double meaning
+- Box 26 | Seed: Rhythm of contact: each movement sways and tightens like a breath pattern. | Keywords: rhythm
 - Box 27 | Seed: — | Keywords: sensory, double meaning
-- Box 28 | Seed: Light and shadow as extra skin: each flash or dimness caresses, hides, reveals. | Keywords: shadow, light
-- Box 29 | Seed: Flavor and bites: taste as desire, tongue and palate as playground. | Keywords: fruit, play
-- Box 30 | Seed: The body as score: each brush a note, each breath an accord. | Keywords: sensory, double meaning
-- Box 31 | Seed: Half-light as accomplice: what stays unseen can burn as much as what appears. | Keywords: shadow, night
-- Box 32 | Seed: Fruit, liquids, and soft-or-firm textures transformed into sensory provocation. | Keywords: air, touch, fruit
-- Box 33 | Seed: Everyday hums and vibrations turning into disguised moans. | Keywords: sensory, double meaning
-- Box 34 | Seed: Light and shadow as invisible hands; the body as silhouette and projection. | Keywords: shadow, light
-- Box 35 | Seed: The body smells, invites, and gives itself away: sweat, perfume, smoke, fabric, touched skin. | Keywords: sweat
-- Box 36 | Seed: Desire has flavor too: salt, sweetness, bitterness, metallic spice. | Keywords: sensory, double meaning
-- Box 37 | Seed: When the body becomes a banquet, each touch is a secret tasting. | Keywords: sensory, double meaning
-- Box 38 | Seed: The body as hidden lab: impossible liquids, soft minerals, fires with flavor. | Keywords: air
+- Box 28 | Seed: Light and shadow as added skin: each gleam or dimness caresses, hides, reveals. | Keywords: shadow, light
+- Box 29 | Seed: Flavor and bites: taste as metaphor for desire, tongue and palate as playground. | Keywords: fruit, play
+- Box 30 | Seed: The body as score: each brush is a note, each gasp an accord. | Keywords: sensory, double meaning
+- Box 31 | Seed: Half-light as accomplice: what stays unseen ignites as much as what appears. | Keywords: shadow, night
+- Box 32 | Seed: Fruit, liquids, and soft/firm textures transformed into sensory provocation. | Keywords: air, touch, fruit
+- Box 33 | Seed: Everyday noises and vibrations become disguised moans. | Keywords: sensory, double meaning
+- Box 34 | Seed: Light and shadow as invisible hands: the body becomes silhouette, reflection, projection. | Keywords: shadow, light
+- Box 35 | Seed: The body smells, invites, and confesses: sweat, perfume, smoke, cloth, fresh touch. | Keywords: sweat
+- Box 36 | Seed: Desire also has flavor: salt, sweetness, bitterness, metallic notes, spice. | Keywords: sensory, double meaning
+- Box 37 | Seed: When the body becomes a banquet, each brush is a secret tasting. | Keywords: sensory, double meaning
+- Box 38 | Seed: The body as hidden laboratory: impossible liquids, soft minerals, flavorful fire. | Keywords: air
 - Box 39 | Seed: Soft gravity and measured pressure: squeeze–release–suspend as secret language. | Keywords: light, mirror
-- Box 40 | Seed: Intimate play of surfaces and borders: visual and tactile metaphors of near-contact. | Keywords: touch, light, play
-- Box 41 | Seed: Objects that flash for an instant—crystal, mirrors, fireworks—as metaphor. | Keywords: light, mirror, night
-- Box 42 | Seed: Breathing feels secondary; friction becomes the language that replaces air. | Keywords: air, sheet
+- Box 40 | Seed: Intimate play of surfaces and borders: visual and tactile metaphors of near contact. | Keywords: touch, light, play
+- Box 41 | Seed: Brief glints—crystals, mirrors, fireworks—as flashes of desire. | Keywords: light, mirror, night
+- Box 42 | Seed: Breathing becomes a luxury; friction speaks where air falls short. | Keywords: air, sheet
